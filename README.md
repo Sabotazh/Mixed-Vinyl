@@ -21,6 +21,11 @@ composer install
 You may alternatively need to run `php composer.phar install`, depending
 on how you installed Composer.
 
+```bash
+yarn install
+yarn watch
+```
+
 **Start the Symfony web server**
 
 You can use Nginx or Apache, but Symfony's local web server
